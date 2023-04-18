@@ -84,3 +84,62 @@ output
 output
 
 ![Screenshot_18](https://user-images.githubusercontent.com/115523263/232729308-ccdefb0e-0a0b-48e4-bb33-f878f380dd28.png)
+
+# Tugas praktikum
+
+## 1. isi data pada table mahasiswa sebanyak 5 record data
+
+![image](https://user-images.githubusercontent.com/115523263/232890233-adb83190-2281-4db3-aed3-b043365463de.png)
+
+## 2. tampilkan semua record table
+
+![image](https://user-images.githubusercontent.com/115523263/232891216-597b3b99-f279-4e0e-8adb-92131ba88866.png)
+
+## 3. Ubah data tanggal lahir mahasiswa yang bernama Ari menjadi: 1979-08-31!
+
+![image](https://user-images.githubusercontent.com/115523263/232892551-df6b33f0-f114-4cde-be71-7eaccc82d606.png)
+
+## 4. Tampilkan satu baris / record data yang telah diubah tadi yaitu record dengan
+nama Ari saja!
+
+![image](https://user-images.githubusercontent.com/115523263/232892871-1179f654-f2e5-444a-b538-4799095d6244.png)
+
+## 5. Hapus Mahasiswa yang bernama Dina!
+
+![image](https://user-images.githubusercontent.com/115523263/232893159-0068f4b8-8bf9-4bdb-a3e9-0862c51176a2.png)
+
+## 6. Tampilkan record atau data yang tanggal kelahirannya lebih dari atau sama
+dengan 1996-1-2!
+
+![image](https://user-images.githubusercontent.com/115523263/232893506-447d106a-478d-4b13-8f83-bed9cf8f5ad7.png)
+
+## 7. Tampilkan semua Mahasiswa yang berasal dari Bekasi dan berjenis kelamin
+perempuan!
+
+![image](https://user-images.githubusercontent.com/115523263/232893797-1728acfb-a4df-41d9-9f7f-36e49d597297.png)
+
+## 8. Tampilkan semua Mahasiswa yang berasal dari Bekasi dengan kelamin laki-laki
+atau Mahasiswa yang berumur lebih dari 22 tahun dengan kelamin wanita!
+
+![image](https://user-images.githubusercontent.com/115523263/232894476-b22a4ede-fce9-42a5-865f-a1d207a01740.png)
+
+## 9. Tampilkan data nama dan alamat mahasiswa saja dari tabel tersebut
+
+![image](https://user-images.githubusercontent.com/115523263/232894706-d98b687f-8722-4cf8-ae73-26075760372d.png)
+
+## 10. Tampilkan data mahasiswa terurut berdasarkan nama
+
+![image](https://user-images.githubusercontent.com/115523263/232895015-f2db0b98-c800-40d2-9972-c2a47e04be8b.png)
+
+# evaluasi dan pertanyaan
+## Apa bedanya penggunaan BETWEEN dan penggunaan operator >= dan <= ?
+- (misal: tgl_lahir BETWEEN '1990-10-10' AND '1992-10-11')
+
+BETWEEN: Kata kunci "BETWEEN" digunakan untuk memilih nilai yang berada di antara dua nilai yang diberikan, termasuk kedua nilai tersebut.
+
+- (misal: tgl_lahir >= '1990-10-10' AND tgl_lahir <= '1992-10-11')
+
+Operator ">=" dan "<=": Operator ">=" digunakan untuk memilih nilai yang lebih besar atau sama dengan nilai yang diberikan, sedangkan operator "<=" digunakan untuk memilih nilai yang lebih kecil atau sama dengan nilai yang diberikan
+
+## kesimpulan
+DML (Data Manipulation Language) adalah sebuah bahasa pemrograman yang berfungsi untuk mengakses, memanipulasi, dan mengelola data yang tersimpan dalam sebuah database. Fungsi dari DML adalah memungkinkan pengguna untuk melakukan berbagai operasi pada data, seperti menambahkan data baru, memperbarui data yang sudah ada, menghapus data, dan mengambil data yang dibutuhkan. Untuk mengakses data dalam DML, pengguna dapat menggunakan perintah SQL (Structured Query Language) yang merupakan bahasa standar untuk mengelola dan mengakses data dalam basis data relasional. Perintah SQL yang tersedia dalam DML antara lain menyisipkan data baru, memodifikasi data, menghapus data, dan menampilkan data seperti yang telah dijelaskan sebelumnya.
