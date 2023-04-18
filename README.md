@@ -99,8 +99,7 @@ output
 
 ![image](https://user-images.githubusercontent.com/115523263/232892551-df6b33f0-f114-4cde-be71-7eaccc82d606.png)
 
-## 4. Tampilkan satu baris / record data yang telah diubah tadi yaitu record dengan
-nama Ari saja!
+## 4. Tampilkan satu baris / record data yang telah diubah tadi yaitu record dengan nama Ari saja!
 
 ![image](https://user-images.githubusercontent.com/115523263/232892871-1179f654-f2e5-444a-b538-4799095d6244.png)
 
@@ -108,8 +107,7 @@ nama Ari saja!
 
 ![image](https://user-images.githubusercontent.com/115523263/232893159-0068f4b8-8bf9-4bdb-a3e9-0862c51176a2.png)
 
-## 6. Tampilkan record atau data yang tanggal kelahirannya lebih dari atau sama
-dengan 1996-1-2!
+## 6. Tampilkan record atau data yang tanggal kelahirannya lebih dari atau sama dengan 1996-1-2!
 
 ![image](https://user-images.githubusercontent.com/115523263/232893506-447d106a-478d-4b13-8f83-bed9cf8f5ad7.png)
 
@@ -118,8 +116,7 @@ perempuan!
 
 ![image](https://user-images.githubusercontent.com/115523263/232893797-1728acfb-a4df-41d9-9f7f-36e49d597297.png)
 
-## 8. Tampilkan semua Mahasiswa yang berasal dari Bekasi dengan kelamin laki-laki
-atau Mahasiswa yang berumur lebih dari 22 tahun dengan kelamin wanita!
+## 8. Tampilkan semua Mahasiswa yang berasal dari Bekasi dengan kelamin laki-laki atau Mahasiswa yang berumur lebih dari 22 tahun dengan kelamin wanita!
 
 ![image](https://user-images.githubusercontent.com/115523263/232894476-b22a4ede-fce9-42a5-865f-a1d207a01740.png)
 
